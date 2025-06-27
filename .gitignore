@@ -1,0 +1,8 @@
+# Node
+frontend/node_modules
+
+# Python
+__pycache__/
+
+# Editor configs
+.vscode/
